@@ -182,3 +182,8 @@
     height:100px;
 
 }
+.slide img{
+    object-fit: cover;
+    height:1000px;
+    width: 100%;
+}
